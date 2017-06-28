@@ -1,4 +1,4 @@
-package classroom
+package dojo
 
 class BootStrap {
 

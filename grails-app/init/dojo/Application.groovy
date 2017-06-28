@@ -1,4 +1,4 @@
-package classroom
+package dojo
 
 import grails.boot.GrailsApp
 import grails.boot.config.GrailsAutoConfiguration
